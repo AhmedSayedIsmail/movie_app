@@ -3,14 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+This Project display List of Movies Throw api And When Click on the Now Playing Movie This Show Details of The Movie And Show You List of Movies That Related To This Movie 
 
-This project is a starting point for a Flutter application.
+## Project Images
+<div>
+<img src="https://github.com/AhmedSayedIsmail/movie_app/assets/93168569/daa1e702-d60e-4db7-8c2c-f018625db434" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/AhmedSayedIsmail/movie_app/assets/93168569/7fb04258-0518-41bf-8fb4-46864d236d6c" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AhmedSayedIsmail/movie_app/assets/93168569/8e470ca0-1c0f-4724-8da7-fe33edc10b86" width="300"/>
+</div>
