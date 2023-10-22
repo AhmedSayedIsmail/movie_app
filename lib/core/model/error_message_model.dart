@@ -1,0 +1,22 @@
+//I put this Model in core bec it shared with movies and tvs
+import 'package:equatable/equatable.dart';
+
+class ErrorMessageModel extends Equatable {
+  final bool success;
+  final int statusCode;
+  final String statusMessage;
+
+  const ErrorMessageModel(
+      {required this.success,
+      required this.statusCode,
+      required this.statusMessage});
+
+  factory ErrorMessageModel.fromJson(Map<String, dynamic> json) =>
+      ErrorMessageModel(
+          success: json['success'],
+          statusCode: json["status_code"],
+          statusMessage: json["status_message"]);
+
+  @override
+  List<Object?> get props => [success, statusCode, statusMessage];
+}
